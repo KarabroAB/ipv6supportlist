@@ -1,2 +1,5 @@
 Name,IPV6_Client_Support,IPV6_Server_Support,Dated_added,Date_IPV6_Support_Added
 SSH,Yes,Yes,2020-04-11,N/A
+HTTP,Yes,Yes,2020-04-11,N/A
+HTTPS,Yes,Yes,2020-04-11,N/A
+DNS,Yes,Yes,2020-04-11,N/A
