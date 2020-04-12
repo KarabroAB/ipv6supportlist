@@ -1,15 +1,15 @@
-Name,Gives_Customers_IPV6,IPV4_CGNAT,Country,Date
+Name,Gives_Customers_IPV6_Native,IPV4_CGNAT,Country,Date
 Bahnflow,Yes,No,Sweden,2020-04-12
 Alltele,N/A,N/A,Sweden,2020-04-12
 Bahnhof,N/A,N/A,Sweden,2020-04-12
-Telia,N/A,N/A,Sweden,2020-04-12
+Telia,No,N/A,Sweden,2020-04-12
 Telenor,N/A,N/A,Sweden,2020-04-12
 IP-only,N/A,N/A,Sweden,2020-04-12
 Ownit,N/A,N/A,Sweden,2020-04-12
 Comhem,N/A,N/A,Sweden,2020-04-12
-A3,N/A,N/A,Sweden,2020-04-12
+A3,No,N/A,Sweden,2020-04-12
 Tele2,N/A,N/A,Sweden,2020-04-12
-Bredband2,N/A,N/A,Sweden,2020-04-12
+Bredband2,No,N/A,Sweden,2020-04-12
 AT&T Internet Services,N/A,N/A,USA,2020-04-12
 Cable One,N/A,N/A,USA,2020-04-12
 CenturyLink,N/A,N/A,USA,2020-04-12
