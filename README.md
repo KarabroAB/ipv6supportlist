@@ -1,6 +1,6 @@
 # IPv6 Support list
 
-## List of things we track IPV6 support on.
+## List of things we track IPv6 support on.
 
 [Websites](//)
 * Websites
